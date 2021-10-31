@@ -16,5 +16,5 @@ echo Done!
 echo Installing Firefox
 yay -S firefox -y
 echo Done!
-echo Thanks for using mustahave!
+echo Thanks for using musthave!
 echo v0.0.0.1 pre
